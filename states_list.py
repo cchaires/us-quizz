@@ -1,6 +1,5 @@
 import pandas
 from turtle import Turtle
-from scoreboard import Scoreboard
 
 # reading the csv file
 data = pandas.read_csv("50_states.csv")
